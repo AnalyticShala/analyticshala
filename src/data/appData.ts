@@ -1702,7 +1702,7 @@ export const workshopData = {
       title: "A Claude-AI Workshop",
       desc: "Get hands-on with Claude, Anthropic's AI model, and see how AI-assisted coding can supercharge your workflow. No prior AI experience needed.",
       tags: ["Claude", "Anthropic", "AI Coding", "Prompting"],
-      date: "July 26, Sunday",
+      date: "September 20, Sunday",
       time: "11:30 AM - 2:30 PM",
       duration: "3 Hours",
       eventMode: ["Online", "Offline"],
