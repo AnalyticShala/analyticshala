@@ -768,7 +768,7 @@
     padding: 2.5rem 0.75rem 4rem;
   }
   .hero {
-    height: clamp(280px, 55vw, 400px);
+    height: clamp(300px, 55vw, 400px);
     border-radius: 0.875rem;
     margin-bottom: 2rem;
   }
