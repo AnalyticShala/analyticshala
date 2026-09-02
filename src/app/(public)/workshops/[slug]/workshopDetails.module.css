@@ -1,7 +1,3 @@
-/* ============================================================
-   Workshop Details - CSS Module
-   ============================================================ */
-
 .page {
   max-width: 1300px;
   margin: 0 auto;
@@ -10,7 +6,6 @@
   color: var(--text-primary);
   font-family: var(--font-body);
 }
-
 
 .hero {
   position: relative;
@@ -127,14 +122,12 @@
   backdrop-filter: blur(6px);
 }
 
-
 .layout {
   display: grid;
   grid-template-columns: 1fr 360px;
   gap: 2rem;
   align-items: start;
 }
-
 
 .main {
   display: flex;
@@ -442,7 +435,6 @@
   font-size: 0.75rem;
   color: var(--text-muted);
 }
-
 
 .sidebar {
   position: sticky;
@@ -761,7 +753,6 @@
   color: var(--text-secondary);
 }
 
-
 @media (max-width: 980px) {
   .layout {
     grid-template-columns: 1fr;
@@ -774,7 +765,7 @@
 
 @media (max-width: 640px) {
   .page {
-    padding: 0 0.75rem 4rem;
+    padding: 2.5rem 0.75rem 4rem;
   }
   .hero {
     height: clamp(280px, 55vw, 400px);
